@@ -1,6 +1,6 @@
 [![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://bento.me/ranadebsaha)
 <h1 align="center">Hi 👋, I'm Ranadeb</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A Passionate Full-Stack developer from India</h3>
 <img align="right" alt="codding" width="500" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranadebsaha&label=Profile%20views&color=0e75b6&style=flat" alt="ranadebsaha" /> </p>
 
