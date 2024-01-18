@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ranadebsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranadebsaha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranadebsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranadebsaha" height="30" width="40" /></a>
-<a href="https://fb.com/ranadebsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranadebsaha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ranadeb-saha-6478ab1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranadebsaha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ranadeb.saha.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranadebsaha" height="30" width="40" /></a>
 <a href="https://instagram.com/ranadeb.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranadeb.saha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ranadebsaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranadebsaha" height="30" width="40" /></a>
+<a href="https://youtube.com/@ranadebsaha?si=T9Y_rBpXkyKn5WIp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranadebsaha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
