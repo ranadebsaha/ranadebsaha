@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Optimized Routine Generator](https://github.com/ranadebsaha/SBH_Project)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranadebsaha](https://github.com/ranadebsaha)
 
