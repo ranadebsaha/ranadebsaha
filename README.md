@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ranadebsaha" target="blank"><img src="https://img.shields.io/twitter/follow/ranadebsaha?logo=twitter&style=for-the-badge" alt="ranadebsaha" /></a> </p>
 
-- 🔭 I’m currently working on [Med+](https://github.com/ranadebsaha/SBH_Project)
+- 🔭 I’m currently working on [Med+](https://github.com/ranadebsaha/Med-Plus)
 
 - 🌱 I’m currently learning **Data Science**
 
