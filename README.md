@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/ranadebsaha" target="blank"><img src="https://img.shields.io/twitter/follow/ranadebsaha?logo=twitter&style=for-the-badge" alt="ranadebsaha" /></a> </p>
 
-- 🔭 I’m currently working on [Optimized Routine Generator](https://github.com/ranadebsaha/SBH_Project)
+- 🔭 I’m currently working on [Med+](https://github.com/ranadebsaha/SBH_Project)
 
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranadebsaha](https://github.com/ranadebsaha)
 
-- 💬 Ask me about **C Programming, Python, PHP, My SQL, Matlab**
+- 💬 Ask me about **C Programming, Python, Java, Node Js, My SQL, MongoDB**
 
 - 📫 How to reach me **ranadebsaha@yahoo.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IfTpTrXxEUtUZzrk14RcYx0tilLQRNdk/view?usp=drivesdk)
