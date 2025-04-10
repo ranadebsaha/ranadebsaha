@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranadebsaha&show_icons=true&locale=en" alt="ranadebsaha" /></p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=ranadebsaha&theme=light&hide_border=false)<br/>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=ranadebsaha&theme=light&hide_border=false" alt="ranadebsaha" /></p>
