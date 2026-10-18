@@ -96,7 +96,7 @@ const ranadeb = {
     gate2026: "Qualified — Computer Science & IT",
   },
 
-  // ✏️ UPDATE ZONE 2 — change when your role changes
+  <!-- // ✏️ UPDATE ZONE 2 — change when your role changes -->
   now: {
     role: "Trainee Software Engineer",
     company: "Aponiar Solution Pvt Ltd",
