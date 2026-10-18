@@ -58,7 +58,7 @@
 | | |
 |---|---|
 | 🧑‍💻 **Engineer** | Trainee SWE at Aponiar · ex-Full Stack Intern at Infiuni Tech (Django/React ERPs for jewelry & rice industries) |
-| 🏢 **Founder** | **DevSaha Tech** — MSME / Udyam-registered agency: Cholo Pujo · The Highway Café · GuideKart |
+| 🏢 **Founder** | **DevSaha Tech** — MSME / Udyam-registered agency: Cholo Pujo |
 | 🔬 **Researcher** | NoTeS-Bank handwritten VQA dataset with **CVIT Lab (IIIT Hyderabad)** × **CVC (Spain)** · CB AI YOLOv8 detector (**95%**) |
 | 🌱 **Leader** | GeeksforGeeks Campus Mantri · HackerRank lead · mentored **500+** developers · Aspire Leaders Program (Harvard Faculty) |
 | 🎓 **Credentials** | B.E. IT, University of Burdwan (**8.99 CGPA**) · **GATE 2026 qualified** · Naukri Young Turks **97.13 percentile** |
@@ -96,7 +96,6 @@ const ranadeb = {
     gate2026: "Qualified — Computer Science & IT",
   },
 
-  <!-- // ✏️ UPDATE ZONE 2 — change when your role changes -->
   now: {
     role: "Trainee Software Engineer",
     company: "Aponiar Solution Pvt Ltd",
@@ -106,12 +105,12 @@ const ranadeb = {
 
   venture: {
     entity: "DevSaha Tech (MSME / Udyam-registered)",
-    shipped: ["Cholo Pujo", "The Highway Café & Restaurant", "GuideKart"],
+    shipped: ["Cholo Pujo"],
   },
 
   research: {
     project: "NoTeS-Bank — handwritten VQA dataset for MLLMs",
-    collaborators: ["CVIT Lab, IIIT Hyderabad", "CVC, Spain"],
+    collaborators: ["CVIT Lab, IIIT Hyderabad", "CVC, Spain", "Habitat Lens"],
     scale: "1,000+ curated scientific notes",
   },
 
@@ -140,7 +139,7 @@ export default ranadeb;
  │  ENGINEER    │  │   FOUNDER    │   │  RESEARCHER   │   │    MENTOR     │
  │ Django/React │  │ DevSaha Tech │   │ NoTeS-Bank    │   │ GFG·HackerRank│
  │ Node · DRF   │  │ Cholo Pujo   │   │ CB AI (YOLO)  │   │ Coding Junction│
- │ PostgreSQL   │  │ Highway Café │   │ OCR · MLLMs   │   │ Aspire Leaders│
+ │ PostgreSQL   │  │              │   │ OCR · MLLMs   │   │ Aspire Leaders│
  └──────┬───────┘  └──────┬───────┘   └───────┬───────┘   └───────┬───────┘
         └─────────────────┴─────────┬─────────┴───────────────────┘
                                     ▼
@@ -224,10 +223,9 @@ export default ranadeb;
       <p>MSME / Udyam-registered agency building tailored digital systems for real clients.</p>
       <ul>
         <li><b>Cholo Pujo</b> — festive crowd &amp; route navigation with <b>Bengali voice assistance</b></li>
-        <li><b>The Highway Café</b> — React Native APK + web POS + Node.js/Supabase backend · <b>GuideKart</b> — Next.js/TypeScript admin platform</li>
       </ul>
       <p>
-        <a href="https://ranadebsaha.netlify.app"><img src="https://img.shields.io/badge/See_portfolio-bc8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+        <a href="https://devsaha.tech/"><img src="https://img.shields.io/badge/See_portfolio-bc8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
         <img src="https://img.shields.io/badge/MSME-registered-3fb950?style=flat-square" alt="MSME"/>
       </p>
     </td>
@@ -264,10 +262,10 @@ export default ranadeb;
 |:---|:---|:---:|
 | **Languages** | `Java` `Python` `C` `JavaScript (ES6+)` `TypeScript` `SQL` | <img src="https://skillicons.dev/icons?i=java,py,c,js,ts&theme=dark" height="34" alt="Languages"/> |
 | **Frontend** | `React.js` `Next.js` `React Native` `Tailwind CSS` `Bootstrap` `HTML5/CSS3` | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" height="34" alt="Frontend"/> |
-| **Backend** | `Node.js` `Express.js` `Django` `Django REST Framework` `Flask` `REST APIs` `WebSockets` | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" height="34" alt="Backend"/> |
+| **Backend** | `Node.js` `Express.js` `Django` `Django REST Framework` `FastAPI` `REST APIs` `WebSockets` | <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" height="34" alt="Backend"/> |
 | **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Oracle` `Supabase` `SQLite` | <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle,supabase,sqlite&theme=dark" height="34" alt="Databases"/> |
 | **AI / CV** | `YOLOv8` `OpenCV` `OCR` `Multimodal Learning` `Data Annotation` | <img src="https://skillicons.dev/icons?i=opencv,py&theme=dark" height="34" alt="AI and CV"/> |
-| **Cloud & DevOps** | `AWS (EC2, S3)` `Docker` `Linux` `Nginx` `Git` `GitHub` `Vercel` `Netlify` `Hostinger VPS` `cPanel` | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vercel,netlify&theme=dark" height="34" alt="Cloud and DevOps"/> |
+| **Cloud & DevOps** | `AWS (EC2, S3, Lambda, CloudFront, Step Functions)` `Serverless ` `Terraform ` `Docker` `Linux` `Nginx` `Git` `GitHub` `Vercel` `Netlify` `Hostinger VPS` `cPanel` | <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vercel,netlify&theme=dark" height="34" alt="Cloud and DevOps"/> |
 
 </div>
 
